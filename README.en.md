@@ -1,6 +1,6 @@
 # file-online-preview
 
-[![GitHub license](https://img.shields.io/github/license/kekingcn/kkFileView.svg?style=flat-square)](https://github.com/robinchia/file-online/blob/master/LICENSE)
+[GitHub license](https://github.com/robinchia/file-online/blob/master/LICENSE)
 
 ### Introduction
 
